@@ -27,6 +27,9 @@ However, an alternative means of installation would be git cloning the repo and 
   - NMF
   - Peaks fitting(TBD)
 
+- **algorithm**
+  - k-means
+  
 # Engineering Infrastructure
 - **Build System**
   - make
@@ -41,3 +44,10 @@ However, an alternative means of installation would be git cloning the repo and 
 | Week  | What-to-do |
 | :---- |:---------- |
 | 1  | Implement read module|
+| 2  | Work on preprocessing part|
+| 3  | Work on preprocessing part|
+| 4  | Work on processing part|
+| 5  | Work on processing part|
+| 6  | Binding to python, unittesting, debugging, writing basic documentation|
+| 7  | Work on algorithm part|
+| 8  | Work on presentation|
