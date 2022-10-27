@@ -14,4 +14,5 @@ The module should be compatible with NumPy arrays
 Ideally, it would be available on PyPI, and one can install it using pip.
 
 However, an alternative means of installation would be git cloning the repo and installing using make.
-- **bold** Read/Save the data
+- **Read/Save the data**
+  - Read .txt format files
