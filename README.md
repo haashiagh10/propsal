@@ -16,3 +16,28 @@ Ideally, it would be available on PyPI, and one can install it using pip.
 However, an alternative means of installation would be git cloning the repo and installing using make.
 - **Read/Save the data**
   - Read .txt format files
+  - Read .csv format files
+ 
+- **Data Preprocess**
+  - Remove zeros and nans
+  - Remove cosmic rays 
+ 
+- **Data Process**
+  - PCA
+  - NMF
+  - Peaks fitting(TBD)
+
+# Engineering Infrastructure
+- **Build System**
+  - make
+- **Testing Tool**
+  - Google Test for C++
+  - Pytest for Python
+- **Version Control**
+  - Git
+
+# Schedule
+
+| Week  | What-to-do |
+| :---- |:---------- |
+| 1  | Implement read module|
