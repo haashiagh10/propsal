@@ -8,3 +8,4 @@ After remove the noise and background in the data , we can implement some algori
 
 # System Architecture
 The module should be compatible with NumPy arrays
+![image](https://github.com/haashiagh10/propsal/blob/main/flowchart.png)
