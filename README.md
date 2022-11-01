@@ -11,7 +11,7 @@ The module should be compatible with NumPy arrays
 ![image](https://github.com/haashiagh10/propsal/blob/main/flowchart.png)
 
 # API Description
-Ideally, it would be available on PyPI, and one can install it using pip.
+I wish that one can install it by using pip.
 
 However, an alternative means of installation would be git cloning the repo and installing using make.
 - **Read/Save the data**
